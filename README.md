@@ -15,4 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 # 用来测试 jenkins 的 java demo
-
+目前已基本配置好
